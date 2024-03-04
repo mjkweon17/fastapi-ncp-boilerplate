@@ -1,6 +1,6 @@
 # FastAPI-NCP Boilerplate
 
-이 boilerplate는 FastAPI와 Naver Cloud Platform(NCP)의 서비스(Server, Cloud DB for MySQL, Container Registry, Object Storage)를 손쉽게 통합하여 사용할 수 있도록 만들어진 프로젝트입니다. NCP에서 제공하는 크레딧을 활용하여 해커톤, 공모전, 토이 프로젝트, 사이드 프로젝트 등 다양한 개발 환경에서 빠르게 시작할 수 있도록 설계되었습니다.
+이 boilerplate는 FastAPI와 Naver Cloud Platform(NCP)의 서비스(Server, Cloud DB for MySQL, Container Registry, Object Storage)를 손쉽게 통합하여 사용할 수 있도록 만들어진 프로젝트입니다. 프로젝트 구조는 [공식 문서](https://fastapi.tiangolo.com/tutorial/bigger-applications/)를 참고해서 만들었으며, 해커톤, 공모전, 토이 프로젝트, 사이드 프로젝트 등 작은 규모의 개발 환경에서 빠르게 시작할 수 있도록 설계되었습니다. 프로덕션 레벨 또는 중형 규모 이상의 개발 환경에서 개발하시게 된다면 [다음 페이지](https://github.com/zhanymkanov/fastapi-best-practices)를 참고해서 프로젝트 구조를 변경해주세요.
 
 ## 시작하기
 
